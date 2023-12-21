@@ -1,0 +1,11 @@
+# Navigation
+nav:
+  - Welcome: welcome.en.md
+  - Access the Admin UI: adminui.en.md
+  - Setup Single Sign-On (SSO): sso.en.md
+  - Sync People Data: people-data.en.md
+  - Connect Datasources: datasources.en.md
+  - Setup Glean Assistant: assistant.en.md
+  - Post-Setup:
+    - ...
+  - Self Hosted: cloud-prem

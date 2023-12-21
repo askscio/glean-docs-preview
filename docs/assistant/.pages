@@ -1,0 +1,8 @@
+# Navigation
+nav:
+  - About Glean Assistant: about.en.md
+  - Supported LLMs: supported-llms.en.md
+  - ...
+  - FAQ: faq.en.md
+  - Configuration: configuration
+  - Usage: usage
